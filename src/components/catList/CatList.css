@@ -1,0 +1,21 @@
+.cat-list-style{
+    width: 100%;
+}
+
+.cat-row{
+    &:nth-child(even){
+        background-color: rgba(240, 248, 255, 0.432);
+    }
+    &:nth-child(odd){
+        background-color: rgba(200, 200, 200, 0.471);
+    }
+    border-radius: 5px;
+    margin: 2px;
+}
+.btn{
+    height: 35px;
+}
+
+.label-cat{
+    color: rgb(62, 62, 62);
+}

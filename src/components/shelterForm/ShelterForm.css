@@ -1,0 +1,12 @@
+.formular{
+    width: 60%;
+    align-self: center;
+}
+
+.form-control{
+    background-color: rgba(255, 255, 255, 0.684);
+}
+
+.form-control{
+    max-width: 250px;
+}
